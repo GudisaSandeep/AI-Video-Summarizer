@@ -63,21 +63,7 @@ Here’s a quick example of how to use the tool:
 - Simply paste the video link into the app.
 - The app will generate a comprehensive summary, capturing all the critical insights and information from the video.
 
-## Voices for Summarization
 
-Our tool also includes multiple voice options for reading out the summary:
-
-- **Liam (Canada)**: en-CA-LiamNeural
-- **Prabhat (India)**: en-IN-PrabhatNeural
-- **Neerja (India)**: en-IN-NeerjaNeural
-- **Christopher (US)**: en-US-ChristopherNeural
-- **Aria (US)**: en-US-AriaNeural
-- **Mitchell (New Zealand)**: en-NZ-MitchellNeural
-- **Libby (UK)**: en-GB-LibbyNeural
-- **Natasha (Australia)**: en-AU-NatashaNeural
-- **Leon (South Africa)**: en-ZA-LeonNeural
-
-To switch voices, simply modify the `VOICE` variable in the code.
 
 ## Contributing
 
