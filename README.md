@@ -107,6 +107,6 @@ If you have any questions or need help, feel free to reach out via GitHub Issues
 
 ## Contact
 
-If you found this project helpful, consider supporting me by starring the repository or sharing it with others. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) and [Twitter](https://twitter.com/yourprofile).
+If you found this project helpful, consider supporting me by starring the repository or sharing it with others. You can also connect with me on [LinkedIn](www.linkedin.com/in/sandeep-gudisa) and [Mail](gudisasandeep141312@gmail.com).
 
 ---
